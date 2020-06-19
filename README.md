@@ -7,7 +7,7 @@ How to run:
 Install packages : pip3 install -r requirements.txt
 
 
-|The book's List that has been scrapped    |The email received with the book list|
+|The book's List that has been scrapped   |  Received email with the book list|
 |-----------------------------------------------|---------------------------------------------|
-| <img src="https://github.com/Ahad726/python-web-scraping-app/blob/master/img/Screenshot_2.png" width="350"> | <img src="https://github.com/Ahad726/python-web-scraping-app/blob/master/img/1_4ESqF3Zm0Y5OtlOC1JOzRg.png" width="350"> |
+| <img src="https://github.com/Ahad726/python-web-scraping-app/blob/master/img/Screenshot_2.png" width="400"> | <img src="https://github.com/Ahad726/python-web-scraping-app/blob/master/img/1_4ESqF3Zm0Y5OtlOC1JOzRg.png" width="400"> |
 
